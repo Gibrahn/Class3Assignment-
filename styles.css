@@ -1,0 +1,39 @@
+/* internal CSS*/
+/* tag selector */
+body{
+    background-color: #9EC5AB;
+}
+h1 {
+    color:#01200F;
+    text-align: center;
+    font-size: 32px;
+    background-color:#32746D;
+}
+h2, h3{
+    color:#01200F;
+    text-align: center;
+    font-size: 24px;
+    background-color:#32746D;
+
+}
+
+p{
+    font-size: 16px;
+    text-transform: capitalize;
+    border: 5px rgb(138, 138, 230) solid;
+    background-color:#32746D;
+}    
+
+/*id selector*/
+#unique{
+    color:rgb(6, 59, 63);
+}
+/*class selector*/
+.center{
+    text-align: center;
+}
+/*class selector*/
+.red{
+    color: red;
+}
+
